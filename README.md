@@ -212,8 +212,6 @@ Facial recognition technology carries significant ethical and legal responsibili
 
 ## 👨‍💻 Author
 
-**Rahul Mandal**
+**VICKY SINGH**
 
----
 
-⭐ If you found this project useful, give it a star on GitHub!
